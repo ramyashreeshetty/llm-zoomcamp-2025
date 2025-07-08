@@ -1,4 +1,4 @@
-# LLM Zoomcamp 2024
+# LLM Zoomcamp 2025
 
 Welcome in my LLM Zoomcamp Repo!
 
